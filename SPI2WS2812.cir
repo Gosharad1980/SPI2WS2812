@@ -1,0 +1,17 @@
+.title KiCad schematic
+J1 +5V /~{EN} /MOSI /SCK GND Conn_01x05
+C1 /SCK Net-_D1-Pad3_ 1n
+D2 Net-_D2-Pad1_ unconnected-_D2-Pad2_ /MOSI BAT54W
+D1 GND unconnected-_D1-Pad2_ Net-_D1-Pad3_ BAT54W
+R1 Net-_D2-Pad1_ Net-_D1-Pad3_ 220 Ohm
+R2 +5V Net-_T2-Pad3_ 220 Ohm
+C3 GND +5V 10n
+R4 +5V /~{EN} 1Meg
+T1 /~{EN} GND Net-_D1-Pad3_ 2N7002
+C4 GND +5V 1µ
+C2 GND Net-_T2-Pad3_ 1n
+T2 Net-_D1-Pad3_ GND Net-_T2-Pad3_ 2N7002
+J2 +5V /DOUT GND Conn_01x03
+T3 Net-_T2-Pad3_ GND /DOUT 2N7002
+T4 Net-_T2-Pad3_ +5V /DOUT BSS84
+.end

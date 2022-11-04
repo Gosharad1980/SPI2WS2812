@@ -429,6 +429,22 @@
     [
       "377983d9-116d-4cab-9ad7-e1479f3ded0c",
       ""
+    ],
+    [
+      "36dc5714-b077-47d2-80db-bf3d28c7b7f9",
+      "Strip_WS2812_0"
+    ],
+    [
+      "fc93dadc-c54a-4613-b628-24afdb878de0",
+      "Strip_WS2812_1"
+    ],
+    [
+      "f254bf23-2473-4bd3-bf3b-ef7b6ff7bec7",
+      "Strip_WS2812_2"
+    ],
+    [
+      "6c34899e-ccc8-43f8-ba78-c280f31c13f2",
+      "Strip_WS2812_3"
     ]
   ],
   "text_variables": {}

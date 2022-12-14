@@ -883,17 +883,17 @@
     (path "/6c34899e-ccc8-43f8-ba78-c280f31c13f2/0e882f27-597f-4c70-96c3-8cd2e564ad53"
       (reference "C16") (unit 1) (value "1µF") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
     )
-    (path "/36dc5714-b077-47d2-80db-bf3d28c7b7f9/4c967c96-a620-47a5-a924-c166bf0b7d63"
-      (reference "D1") (unit 1) (value "BAT54S") (footprint "Package_TO_SOT_SMD:SOT-23")
+    (path "/36dc5714-b077-47d2-80db-bf3d28c7b7f9/e494d929-b3e6-4719-9e6f-bf6afe337e70"
+      (reference "D1") (unit 1) (value "BAS40-04") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
-    (path "/fc93dadc-c54a-4613-b628-24afdb878de0/4c967c96-a620-47a5-a924-c166bf0b7d63"
-      (reference "D2") (unit 1) (value "BAT54S") (footprint "Package_TO_SOT_SMD:SOT-23")
+    (path "/fc93dadc-c54a-4613-b628-24afdb878de0/e494d929-b3e6-4719-9e6f-bf6afe337e70"
+      (reference "D2") (unit 1) (value "BAS40-04") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
-    (path "/f254bf23-2473-4bd3-bf3b-ef7b6ff7bec7/4c967c96-a620-47a5-a924-c166bf0b7d63"
-      (reference "D3") (unit 1) (value "BAT54S") (footprint "Package_TO_SOT_SMD:SOT-23")
+    (path "/f254bf23-2473-4bd3-bf3b-ef7b6ff7bec7/e494d929-b3e6-4719-9e6f-bf6afe337e70"
+      (reference "D3") (unit 1) (value "BAS40-04") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
-    (path "/6c34899e-ccc8-43f8-ba78-c280f31c13f2/4c967c96-a620-47a5-a924-c166bf0b7d63"
-      (reference "D4") (unit 1) (value "BAT54S") (footprint "Package_TO_SOT_SMD:SOT-23")
+    (path "/6c34899e-ccc8-43f8-ba78-c280f31c13f2/e494d929-b3e6-4719-9e6f-bf6afe337e70"
+      (reference "D4") (unit 1) (value "BAS40-04") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/391afdd0-4a9a-4657-9f56-66e9478e3f4c"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")

@@ -1,5 +1,0 @@
-version 2
-1
-9
-.tran 0 .00001 0 .000000001{return}.kicad adjustpaths{return}.save all{return}.probe alli
-0
